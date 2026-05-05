@@ -7,11 +7,11 @@ This repository contains the Altium Designer project files and visualizations fo
 <img width="600" height="300" alt="image" src="https://github.com/HalitKosemen/Altium-STM32F103C8T6---Blue-Pill/blob/main/3DTop.JPG" />
 
 <br>
-<img width="1016" height="48" alt="image" src="https://github.com/HalitKosemen/Altium-STM32F103C8T6---Blue-Pill/blob/main/3DBottom.JPG" />
+<img width="600" height="300" alt="image" src="https://github.com/HalitKosemen/Altium-STM32F103C8T6---Blue-Pill/blob/main/3DBottom.JPG" />
 
-<img width="500" height="300" alt="image" src="https://github.com/HalitKosemen/Altium-STM32F103C8T6---Blue-Pill/blob/main/TopLayer.JPG" />
+<img width="600" height="300" alt="image" src="https://github.com/HalitKosemen/Altium-STM32F103C8T6---Blue-Pill/blob/main/TopLayer.JPG" />
 
-<img width="1000" height="600" alt="image" src="https://github.com/HalitKosemen/Altium-STM32F103C8T6---Blue-Pill/blob/main/BottomLayer.JPG" />
+<img width="600" height="300" alt="image" src="https://github.com/HalitKosemen/Altium-STM32F103C8T6---Blue-Pill/blob/main/BottomLayer.JPG" />
 
 <img width="1929" height="1056" alt="image" src="https://github.com/HalitKosemen/Altium-STM32F103C8T6---Blue-Pill/blob/main/Schematic.JPG" />
 
