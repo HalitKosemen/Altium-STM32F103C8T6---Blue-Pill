@@ -1,2 +1,31 @@
-# Altium-STM32F103C8T6---Blue-Pill
-Altium STM32F103C8T6 - Blue Pill
+# Altium-STM32F103C8T6-Blue-Pill
+🧠 Overview<br>This repository contains a lightweight SD card file system layer for STM32 microcontrollers based on FatFs.<br><br>The goal of this project is to provide simple, explicit and controllable SD card operations suitable for bare-metal and real-time embedded systems.<br>All functions are written with deterministic behavior, explicit buffer handling, and low-level control in mind.
+
+All function prototypes<br>
+
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3303995a-3b13-4ec6-87bf-4c48bbf4d8cd" />
+
+How To İmplement 
+First you need to install MIDWARE file and copy to your project. and then import MIDWARE folder to project path 
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/4f2f577f-583d-4ab8-ba77-971814c2079a" />
+
+<br>
+<img width="1016" height="48" alt="image" src="https://github.com/user-attachments/assets/96112bec-33e6-49b8-91ba-005fad61dc18" />
+Using this function, you can write sensor data, variable values, or memory address values directly to an SD card as a raw .bin file, and later inspect or verify the data by reading the file with HxD.<br>
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/04501da8-5ba4-427d-9cdf-dd2d3da88bab" />
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/7fd6ce0a-7f5a-40de-80b8-449d11bbb99e" />
+<br>
+If you insert the SD card into your computer and examine the Data.bin file you can easily read all the data...
+<img width="1929" height="1056" alt="image" src="https://github.com/user-attachments/assets/d0751ef7-bd69-4ab3-8ea7-8ac20144c59a" />
+
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/halit-k%C3%B6semen-62b9992b4/) 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
